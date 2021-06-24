@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "3411130998",
+    "firebase_url": "https://firetuto-9da4b.firebaseio.com",
+    "project_id": "firetuto-9da4b",
+    "storage_bucket": "firetuto-9da4b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:3411130998:android:0c04e33c6961e3fe4cfd57",
+        "android_client_info": {
+          "package_name": "com.example.firebasegmailauthentuto"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "3411130998-s60fotcp4bqkjoea05a5ih35i66v6vct.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.firebasegmailauthentuto",
+            "certificate_hash": "4f67c922950cbd5b7f317c9ce96f54e7de6a658e"
+          }
+        },
+        {
+          "client_id": "3411130998-i9rjvhptngsmuhatge97jqmd92es7rp1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDXj2YE_zAr1ZatOjccvB9Xo-EzKchlivk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "3411130998-i9rjvhptngsmuhatge97jqmd92es7rp1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

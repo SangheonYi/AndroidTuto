@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="selectable">
+        <item name="colorControlHighlight">#f00</item>
+        <item name="android:background">?attr/selectableItemBackground</item>
+        <item name="android:fillColor">#000</item>
+    </style>
+</resources>
